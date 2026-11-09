@@ -1,0 +1,1 @@
+{"uuid":"b6964136-5bbd-4304-afac-3985c8fc8e6a","name":"\"before each\" hook for Sauce Demo Mobile App","children":["30c7b0cf-d82d-4a04-a67e-f2c4df396977"],"befores":[{"status":"passed","statusDetails":{},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1793881323275,"name":"\"before each\" hook for Sauce Demo Mobile App","stop":1793881324169}],"afters":[]}
